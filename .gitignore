@@ -1,0 +1,9 @@
+contract/target
+keys/
+node_modules/
+package-lock.json
+/rust-toolchain
+tests/
+
+.travis.yml
+.DS_Store
